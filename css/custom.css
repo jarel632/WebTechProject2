@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+    background-image: url(../img/BG.jpg);
+    background-size: cover;
+}
+
+footer {
+    background-color: darkblue;
+    padding: .5% 2%;
+    color: white;
+    margin: 30px 0;
+}
+
+.lclogo {
+    padding: 4%;
+}
+
+.lcbanner {
+    padding: 4%;
+}
+
+.row h4 {
+    color: white;
+}
+
+.row p {
+    color: white;
+}
+
+.table {
+    color: black;
+    background-color: white;
+}
+
+.tab-pane {
+    tab-size: 50%;
+}
+
+.row {
+    color: white;
+}
+
+main>header>img {
+    width: 30%;
+}
+
+div>p>a>img {
+    width: 15%
+}
